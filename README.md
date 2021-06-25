@@ -1,0 +1,2 @@
+# tp_py_grpc_sync_nogen
+不编译proto的python同步接口grpc实现

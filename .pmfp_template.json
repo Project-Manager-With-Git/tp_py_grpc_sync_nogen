@@ -34,7 +34,7 @@
     },
     "components": {
         "sync_nogen_sdk": {
-            "source": "cp_py_grpc//sync_sdk",
+            "source": "cp_py_grpc//sync_nogen_sdk",
             "description": "grpc的客户端定义",
             "default_path": "{{ project_name }}/sdk"
         },
